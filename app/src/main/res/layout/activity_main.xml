@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="text"
-        android:text="Name" />
+        android:hint="Name" />
 
     <EditText
         android:id="@+id/etSurname"
@@ -21,7 +21,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="text"
-        android:text="Name"
+        android:hint="Surname"
         android:layout_marginTop="10dp"/>
 
     <EditText
@@ -30,7 +30,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="text"
-        android:text="Name"
+        android:hint="Patronymic"
         android:layout_marginTop="10dp"/>
 
     <EditText
@@ -39,7 +39,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="text"
-        android:text="Name"
+        android:hint="Age"
         android:layout_marginTop="10dp"/>
 
     <EditText
@@ -48,7 +48,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="text"
-        android:text="Name"
+        android:hint="Height"
         android:layout_marginTop="10dp"/>
 
     <EditText
@@ -57,7 +57,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="text"
-        android:text="Name"
+        android:hint="Weight"
         android:layout_marginTop="10dp"/>
 
     <LinearLayout
